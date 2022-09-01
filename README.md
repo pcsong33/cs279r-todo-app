@@ -38,9 +38,13 @@ Check installed versions:
    
 ### How to run code locally
 
-Right-click on the index.html file, and open the file with your preferred browser.
+- Clone the repo using the following command 
+     ```
+    git clone https://github.com/pcsong33/cs279r-todo-app.git
+    ```
+- Navigate to the repository directory and right-click on the index.html file. Open the HTML file using your preferred browser.
 
-## App Features
+### App Features
 - Add tasks by entering activities in the top box.
 - Favorite tasks by clicking the star icon.
 - Delete tasks by clicking the trash icon. 
