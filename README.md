@@ -1,8 +1,8 @@
 ## A To Do Web App using Javscript, HTML, CSS
 
-In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
+You can view the page at: . In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
-**How to install Node.js**
+### How to install Node.js
 
 Links:
 
@@ -33,3 +33,12 @@ Check installed versions:
    $ npm --version
    6.14.4
    ```
+   
+### How to run code locally
+
+Right-click on the index.html file, and open the file with your preferred browser.
+
+## TODO App Features
+
+
+
