@@ -2,7 +2,7 @@
 
 ![Page Demo](demo.png)
 
-You can view the page at this [link](https://pcsong33.github.io/cs279r-todo-app/). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
+You can view the page at this [link](https://pcsong33.github.io/cs279r-todo-app/). This project is adapted from a tutorial by [Dhanish Ghajjar](https://github.com/dhanishgajjar/js-to-do). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
 ### App Features
 - Add tasks by entering activities in the top box.
