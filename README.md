@@ -4,6 +4,11 @@
 
 You can view the page at this [link](https://pcsong33.github.io/cs279r-todo-app/). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
+### App Features
+- Add tasks by entering activities in the top box.
+- Favorite tasks by clicking the star icon.
+- Delete tasks by clicking the trash icon. 
+
 ### How to install Node.js
 
 Links:
@@ -43,11 +48,3 @@ Check installed versions:
     git clone https://github.com/pcsong33/cs279r-todo-app.git
     ```
 - Navigate to the repository directory and right-click on the index.html file. Open the HTML file using your preferred browser.
-
-### App Features
-- Add tasks by entering activities in the top box.
-- Favorite tasks by clicking the star icon.
-- Delete tasks by clicking the trash icon. 
-
-
-
