@@ -2,7 +2,7 @@
 
 In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
-**How to install Node.js**
+##How to install Node.js
 
 Links:
 
