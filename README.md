@@ -1,6 +1,8 @@
 ## A To Do Web App using Javscript, HTML, CSS
 
-You can view the page at: . In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
+![Page Demo](demo.png)
+
+You can view the page at this [link](https://pcsong33.github.io/cs279r-todo-app/). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
 ### How to install Node.js
 
@@ -38,7 +40,10 @@ Check installed versions:
 
 Right-click on the index.html file, and open the file with your preferred browser.
 
-## TODO App Features
+## App Features
+- Add tasks by entering activities in the top box.
+- Favorite tasks by clicking the star icon.
+- Delete tasks by clicking the trash icon. 
 
 
 
