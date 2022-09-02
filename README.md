@@ -6,8 +6,12 @@ You can view the page at this [link](https://pcsong33.github.io/cs279r-todo-app/
 
 ### App Features
 - Add tasks by entering activities in the top box.
-- Favorite tasks by clicking the star icon.
 - Delete tasks by clicking the trash icon. 
+
+### Extra Functionality
+- You can favorite tasks by clicking the star icon.
+- Tasks can be moved from the favorites section to the regular tasks section by unclicking the star icon.
+- Tasks in the favorites section can also be removed by clicking on the trash icon.
 
 ### How to install Node.js
 
